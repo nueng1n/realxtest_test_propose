@@ -30,3 +30,4 @@ https://drive.google.com/file/d/1KvSBIO8rQ88SzYY4EyipHxrX-iR4khAV/view?usp=shari
 
 
 ```
+Dockfile จะอยู่ใน backend, frontend dir 
