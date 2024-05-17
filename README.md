@@ -1,6 +1,8 @@
 # realxtest_test_propose
 test propose
 
+NOTE Backend use node v20.13.1 สำหรับ env-file feature,  frontend use v16.20.2
+
 video สำหรับการรันทดสอบใน local
 https://drive.google.com/file/d/1KvSBIO8rQ88SzYY4EyipHxrX-iR4khAV/view?usp=sharing
 
