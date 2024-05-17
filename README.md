@@ -2,7 +2,7 @@
 test propose
 
 NOTE!!
-  -Backend use node v20.13.1 สำหรับ env-file feature,  frontend use v16.20.2
+  - Backend use node v20.13.1 สำหรับ env-file feature,  frontend use v16.20.2
   - user กับ pass เป็น user ทั้งคู่
 
 
